@@ -1,0 +1,78 @@
+---
+title: North Brisbane Wholistic Health Centre
+author: Joseph Iuzzolino
+date: 2020-01-23
+documentclass: article
+output:
+  pdf_document:
+    includes:
+      in_header: header.tex
+      before_body: doc_prefix.tex
+header-includes:
+  - \usepackage[table]{xcolor}
+  - \usepackage[utf8]{inputenc}
+  - \usepackage[T1]{fontenc}
+---
+
+\tableofcontents
+
+# Task
+Design an infomation system to assist the running and management of the North Brisbane Wholistic Health Centre. The organisation has decided to go digital with their note taking. By doing this the bussiness will be able to free up space taken up by filing cabinets and have ample room to expand.
+
+
+
+# Conditions
+
+
+
+
+# Criteria
+## Knowledge and application
+## Evaluation and communication
+
+
+
+
+# Identification
+## Project overview and description of the business
+### Online presence
+[Google Maps](https://www.google.com/maps/place/North+Brisbane+Wholistic+Health+Centre/@-27.4062909,153.005995,17z/data=!3m1!4b1!4m5!3m4!1s0x6b915798e6e180ef:0x343c96957ec112eb!8m2!3d-27.4062909!4d153.0081837)[Yelp1](https://www.yelp.com/biz/north-brisbane-wholistic-health-centre-everton-park)
+[Yelp2](https://www.yelp.com/biz/shaun-price-everton-park-2)
+## Problem desciption and rationale for development
+## Industry and market risks
+## Budgetary risks
+## Assumptions and boundaries
+## Technical obstacles
+### Software decisions
+### Template System decisions
+## Universe of discourse (UOD) inclusions
+
+
+
+
+# Conceptualisation
+## Data included in the sysem
+## System capabilities
+## Input and output requirements
+
+
+
+
+# Formalisation
+## Entities
+## Elementary sentences
+## Conceptual schema diagrams
+### First draft
+### Final version
+## Data flow diagrams
+
+
+
+
+# Implementation phase
+## Relational schema
+## HCI design
+### Themes
+## Testing
+## Design progress
+## Conclusion
